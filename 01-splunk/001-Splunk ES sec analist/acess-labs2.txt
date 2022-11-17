@@ -1,0 +1,24 @@
+https://train.class.splunk.com/splunku22.cfm
+
+	b0ss0fth3s0c
+
+
+
+Splunk Lab Component
+ES Server Login Details
+Student	student6
+Splunk Web	https://usinges3-06.class.splunk.com/
+Splunk Username	analyst
+Splunk Password	b0ss0fth3s0c
+
+
+https://usinges3-06.class.splunk.com/
+analyst
+#Dani121212
+
+
+
+Student	student5
+Splunk Web	https://usinges7-05.class.splunk.com/
+Splunk Username	analyst
+Splunk Password	b0ss0fth3s0c

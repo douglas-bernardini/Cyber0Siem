@@ -1,0 +1,6 @@
+home.pearsonvue.com/splunk/conf
+
+PV-04843008
+
+cyber0
+#Dani121212
